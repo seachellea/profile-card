@@ -1,4 +1,4 @@
 # Profile Card
 Frontend Mentor Challenge
 
-<a href="https://seachellea.github.io/faq-accordion/">Live Demo »</a>
+<a href="https://seachellea.github.io/profile-card/">Live Demo »</a>
